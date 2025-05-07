@@ -1,0 +1,1 @@
+Total_Customers = COUNT(Fact_Sales[Shop_PK])

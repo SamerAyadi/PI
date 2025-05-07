@@ -1,0 +1,1 @@
+LongProduction = IF(fact_production[Période_Production_Heures] > 12, 1, 0)

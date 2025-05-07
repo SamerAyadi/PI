@@ -1,0 +1,1 @@
+ProductionDuration = DATEDIFF(fact_production[ProductionStartDate_PK], fact_production[ProductionEndDate_PK], HOUR)

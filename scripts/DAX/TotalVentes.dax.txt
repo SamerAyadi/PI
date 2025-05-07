@@ -1,0 +1,2 @@
+Total Ventes = 
+SUM('Fact_Sales'[Quantite])

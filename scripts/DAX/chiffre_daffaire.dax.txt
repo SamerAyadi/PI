@@ -1,0 +1,1 @@
+Chiffre_Daffaire = SUMX(Fact_Sales, Fact_Sales[Quantite]* Fact_Sales[Quantite])
